@@ -7,7 +7,7 @@
 
 Clostridium difficile (C.Diff) infections remain one of the most significant patient safety challenges in U.S. hospitals, driving substantial healthcare costs and extending patient hospital stays. While the CDC has established recommended infection control protocols, the incidence of C.Diff varies significantly across facilities. This project aims to analyze C.Diff infection rates in U.S. hospitals throughout 2023, identify potential correlations between hospital ratings and infection cases, and identify factors that influence the effectiveness of control effectiveness. Findings from this analysis can help healthcare facilities optimize their safety protocols and improve infection control outcomes.
 <br>
-
+<br>
 ### Datasets
 
 [Healthcare Associated Infections - Hospital](https://data.cms.gov/provider-data/dataset/77hc-ibv8#data-table "Healthcare Associated Infections - Hospital") - table contains hospital-level metrics related to various healthcare-associated infections, including Clostridium difficile (C.Diff), MRSA Bacteremia, Catheter Associated Urinary Tract Infections, Central Line Associated Bloodstream Infections, and Surgical Site Infections for Colon Surgery and Abdominal Hysterectomy. Key variables include the number of cases, eligible cases, and standardized infection ratios for each infection type.
